@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suv05&label=Profile%20views&color=0e75b6&style=flat" alt="suv05" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iamsuv1" target="blank"><img src="https://img.shields.io/twitter/follow/iamsuv1?logo=twitter&style=for-the-badge" alt="iamsuv1" /></a> </p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🔭 I’m currently working on **a e-commerce website**
 
